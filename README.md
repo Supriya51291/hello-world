@@ -1,5 +1,7 @@
 # hello-world
-Simple Project with Hibernate framework
+
+
+1. Testing Jenkins connectivity
 
 
 
